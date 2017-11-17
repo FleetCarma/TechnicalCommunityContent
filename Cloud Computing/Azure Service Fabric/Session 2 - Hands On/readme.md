@@ -88,7 +88,7 @@ In this exercise, you will create an Azure Service Fabric application using Visu
 
      _Selecting a service template_
 
-1. Make sure **ASP.NET Core 1.1** is selected as the framework version. Then select **Web Application** and click **OK**.
+1. Make sure **ASP.NET Core 2.0** is selected as the framework version. Then select **Web Application** and click **OK**.
 
     ![Creating an ASP.NET Core Web app](Images/start-newaspnetcoreapp_template.png)
 
@@ -125,7 +125,7 @@ In this exercise, you will create an Azure Service Fabric application using Visu
             .Build();
 	```
 
-At this point, the application is basically a standard ASP.NET Core 1.1 MVC Web application. ASP.NET Core is a rich framework for building Web applications. Additional information about ASP.NET Core can be found [here](https://www.asp.net/core).
+At this point, the application is basically a standard ASP.NET Core 2.0 MVC Web application. ASP.NET Core is a rich framework for building Web applications. Additional information about ASP.NET Core can be found [here](https://www.asp.net/core).
 
 <a name="Exercise2"></a>
 ## Exercise 2: Run the app in a local cluster ##
